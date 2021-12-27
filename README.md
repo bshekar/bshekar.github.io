@@ -1,4 +1,6 @@
-![photograph](./assets/BCS1-150x150.jpg) ## Bharath Shekar
+![photograph](./assets/BCS1-150x150.jpg) 
+
+## Bharath Shekar
 
 
 
